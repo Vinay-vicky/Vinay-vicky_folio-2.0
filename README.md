@@ -2,9 +2,9 @@
 ## _Chatting Bot Like Design (Whatsapp like interface)_
 
 
-- [Running Site](https://vinayak-09.github.io/)
+- [Running Site](https://vinay-vicky.github.io/Vinay-vicky_folio-2.0/)
 
-[![N|Solid](images/demo.gif)](https://vinayak-09.github.io/)
+[![N|Solid](images/demo.gif)](https://vinay-vicky.github.io/Vinay-vicky_folio-2.0/)
 
 ## Technologies Used
 
